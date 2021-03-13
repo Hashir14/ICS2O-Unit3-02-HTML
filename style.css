@@ -1,7 +1,7 @@
 .title {
   font-size: 250%;
   font-family: "lucidhandwriting", cursive;
-  color:  midnightblue;
+  color: midnightblue;
   text-align: center;
   background-color: darkgray;
   width: 85%;
@@ -37,7 +37,7 @@
 .small {
   font-weight: bold;
   text-decoration: underline;
-  text-align:center;
+  text-align: center;
   color: blanchedalmond;
   background-color: black;
 }
@@ -57,5 +57,5 @@ td {
   border: 1px solid red;
   color: blanchedalmond;
   text-align: center;
-  background-color: black
+  background-color: black;
 }
