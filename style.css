@@ -1,0 +1,61 @@
+.title {
+  font-size: 250%;
+  font-family: "lucidhandwriting", cursive;
+  color:  midnightblue;
+  text-align: center;
+  background-color: darkgray;
+  width: 85%;
+  border: 20px  mediumblue;
+  border-style: outset;
+  padding: 25px;
+  margin: 50px;
+}
+
+.intro {
+  color: blueviolet;
+  font-size: 140%;
+  text-align: center;
+  font-family: "arial", sans-serif;
+  font-weight: bold;
+  background-color: burlywood;
+  border: 30px aqua;
+  border-style: solid;
+  padding: 10px;
+  margin: 20px;
+}
+
+.pic {
+  width: 50%;
+  border: 20px gold;
+  border-style: double;
+  padding: 50px;
+  margin-right: 50px;
+  margin-left: 250px;
+  margin-top: 30px;
+}
+
+.small {
+  font-weight: bold;
+  text-decoration: underline;
+  text-align:center;
+  color: blanchedalmond;
+  background-color: black;
+}
+
+.table {
+  table-layout: auto;
+  width: 90%;
+  background-color: pink;
+  border: 50px red;
+  border-width: 15px pink;
+  padding: 5%;
+  margin: 50px;
+}
+
+th,
+td {
+  border: 1px solid red;
+  color: blanchedalmond;
+  text-align: center;
+  background-color: black
+}
